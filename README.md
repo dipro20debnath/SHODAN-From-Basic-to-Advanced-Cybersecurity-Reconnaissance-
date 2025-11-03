@@ -1,0 +1,2 @@
+# SHODAN-From-Basic-to-Advanced-Cybersecurity-Reconnaissance-
+Overview  Shodan is the world’s first search engine for internet-connected devices. While Google indexes websites, Shodan indexes servers, IoT devices, routers, cameras, industrial control systems, and exposed services.🔐  Shodan is powerful — always operate within scope . Unauthorized scanning, exploitation, or accessing systems is illegal.
